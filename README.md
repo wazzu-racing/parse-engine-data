@@ -23,3 +23,19 @@ or anything else. I use GIMP for this. PlotDigitizer also only supports one
 line, it doesn't support multiple lines in different colors. To get around this
 I make two copies of the image, then erase one of the lines in each image, using
 GIMP. Then PlotDigitizer can do its thing.
+
+
+Engine list:
+```
+675 Daytona R           Incomplete
+KTM 690 Enduro          Incomplete
+Yamaha R6               Incomplete
+KTM 350.4 50_SX-F       Incomplete
+KTM RC 390              Incomplete
+Kawasaki Ninja ZX-6R    Incomplete
+Suzuki GSX R600         Incomplete
+KTM 125 Duke            Incomplete
+Honda CBR600RR          Incomplete
+Predator 212 Modded     Incomplete
+Triumph Street triple R Incmoplete
+```
