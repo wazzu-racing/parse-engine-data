@@ -30,8 +30,8 @@ Engine list:
 675 Daytona R           Incomplete
 KTM 690 Enduro          Incomplete
 Yamaha R6               Incomplete
-KTM 350.4 50_SX-F       Incomplete
-KTM RC 390              Incomplete
+KTM 350.4 50_SX-F       Imparsible
+KTM RC 390              Complete
 Kawasaki Ninja ZX-6R    Incomplete
 Suzuki GSX R600         Incomplete
 KTM 125 Duke            Incomplete
