@@ -32,10 +32,10 @@ KTM 690 Enduro          Complete
 Yamaha R6               Complete
 KTM 350.4 50_SX-F       Complete
 KTM RC 390              Complete
-Kawasaki Ninja ZX-6R    Incomplete
-Suzuki GSX R600         Incomplete
-KTM 125 Duke            Incomplete
-Honda CBR600RR          Incomplete
-Predator 212 Modded     Incomplete
-Triumph Street triple R Incmoplete
+Kawasaki Ninja ZX-6R    Complete
+Suzuki GSX R600         Complete
+KTM 125 Duke            Inconclusive (X-axis is mph, not rpm)
+Honda CBR600RR          Inconclusive (Cannot see RPM axis)
+Predator 212 Modded     Inconclusive (HP does not start at 0; performed calculations incorrectly)
+Triumph Street triple R Complete
 ```
