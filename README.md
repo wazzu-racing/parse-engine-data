@@ -27,9 +27,9 @@ GIMP. Then PlotDigitizer can do its thing.
 
 Engine list:
 ```
-675 Daytona R           Incomplete
-KTM 690 Enduro          Incomplete
-Yamaha R6               Incomplete
+675 Daytona R           Complete
+KTM 690 Enduro          Complete
+Yamaha R6               Complete
 KTM 350.4 50_SX-F       Complete
 KTM RC 390              Complete
 Kawasaki Ninja ZX-6R    Incomplete
